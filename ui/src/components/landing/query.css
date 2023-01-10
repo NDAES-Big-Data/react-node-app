@@ -1,0 +1,14 @@
+.query {
+    width: 30%;
+    margin: 5px;
+    display: flex;
+}
+.year{
+    margin: 5px;
+}
+.loc{
+    margin: 5px;
+}
+.exp{
+    margin: 5px;
+}
